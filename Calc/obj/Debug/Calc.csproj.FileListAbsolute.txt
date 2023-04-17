@@ -1,0 +1,16 @@
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/bin/Debug/Calc.exe
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/bin/Debug/Calc.pdb
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/actool/_PartialAppManifest.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/_ProcessedContentPath.items
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/Calc.csproj.AssemblyReference.cache
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/Calc.csproj.CoreCompileInputs.cache
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/Calc.exe
+/Users/griffinbarnard/Desktop/oop/Calc/Calc/obj/Debug/Calc.pdb

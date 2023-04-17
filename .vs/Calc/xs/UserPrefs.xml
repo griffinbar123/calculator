@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B351D319-A2DE-46FD-B57D-821C17B0F223}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calc/ViewController.cs">
+    <Files>
+      <File FileName="Calc/Main.cs" />
+      <File FileName="Calc/ISolve.cs" />
+      <File FileName="Calc/ViewController.cs" Line="123" Column="100" />
+      <File FileName="Calc/Solver.cs" Line="141" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calc" expanded="True">
+            <Node name="Calc" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calc PreferredExecutionTarget="MyMacID" />
+</Properties>

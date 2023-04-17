@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict>
+		<key>8IO-U0-n7i</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>8IO-U0-n7i</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+		<key>A75-kz-8L1</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>A75-kz-8L1</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>QZC-dW-e9K</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>QZC-dW-e9K</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>RTA-MY-Kmk</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>RTA-MY-Kmk</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict/>
+</dict>
+</plist>
